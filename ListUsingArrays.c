@@ -1,4 +1,4 @@
-# Array Implementation of List ADT
+// Array Implementation of List ADT
 #include <stdio.h>
 #include <stdlib.h>
 #define SIZE 100
