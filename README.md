@@ -3,6 +3,7 @@ This repository contains the C programs that I have submitted for assignments an
 
 ## Structure of the Repository
 [`ListUsingArrays.c`](https://github.com/fromjyce/DSA-in-C/blob/main/ListUsingArrays.c) - Demonstrates the Array Implementaion of List ADT
+
 [`ListUsingPointers.c`](https://github.com/fromjyce/DSA-in-C/blob/main/ListUsingPointers.c) - Demonstrates the Pointer Based Implementaion of LIST ADT
 ## Running the Programs
 To run the C programs, you need to have a C compiler installed on your system. The programs have been tested on the GNU GCC compiler on Linux
