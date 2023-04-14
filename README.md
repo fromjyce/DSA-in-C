@@ -2,7 +2,7 @@
 This repository contains the C programs that I have submitted for assignments and records during my first semester at college, focusing on the implementation of various data structures and algorithms. The programs cover a wide range of topics, including arrays, linked lists, stacks, queues, trees, sorting and searching algorithms, and more. Through these programs, I gained a solid understanding of data structure and algorithm design, implementation, and optimization using the C programming language.
 
 ## Structure of the Repository
-
+`ListUsingArrays.c`- Demonstrates the Array Implementaion of List ADT
 ## Running the Programs
 To run the C programs, you need to have a C compiler installed on your system. The programs have been tested on the GNU GCC compiler on Linux
 
