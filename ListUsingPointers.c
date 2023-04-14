@@ -1,4 +1,4 @@
-# Pointer Based Implementation of Linked List ADT
+// Pointer Based Implementation of Linked List ADT
 #include <stdio.h>
 #include <stdlib.h>
 struct node {
