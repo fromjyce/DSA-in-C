@@ -5,6 +5,12 @@ This repository contains the C programs that I have submitted for assignments an
 [`ListUsingArrays.c`](https://github.com/fromjyce/DSA-in-C/blob/main/ListUsingArrays.c) - Demonstrates the Array Implementaion of List ADT
 
 [`ListUsingPointers.c`](https://github.com/fromjyce/DSA-in-C/blob/main/ListUsingPointers.c) - Demonstrates the Pointer Based Implementaion of LIST ADT
+
+[`PolyUsingSLL.c`](https://github.com/fromjyce/DSA-in-C/blob/main/PolyUsingSLL.c) - Demonstrates the Polynomial Equation using Singly Linked Lists
+
+[`StackUsingArrays.c`](https://github.com/fromjyce/DSA-in-C/blob/main/StackUsingArrays.c) - Demonstrates the Implementation of Stack using Arrays
+
+[`StackUsingSLL.c`](https://github.com/fromjyce/DSA-in-C/blob/main/StackUsingSLL.c) - Demonstrates the Implementation of Stack using Singly Linked Lists
 ## Running the Programs
 To run the C programs, you need to have a C compiler installed on your system. The programs have been tested on the GNU GCC compiler on Linux
 
