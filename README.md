@@ -2,9 +2,9 @@
 This repository contains the C programs that I have submitted for assignments and records during my first semester at college, focusing on the implementation of various data structures and algorithms. The programs cover a wide range of topics, including arrays, linked lists, stacks, queues, trees, sorting and searching algorithms, and more. Through these programs, I gained a solid understanding of data structure and algorithm design, implementation, and optimization using the C programming language.
 
 ## Structure of the Repository
-[`ListUsingArrays.c`](https://github.com/fromjyce/DSA-in-C/blob/main/ListUsingArrays.c) - Demonstrates the Array Implementaion of List ADT
+[`ListUsingArrays.c`](https://github.com/fromjyce/DSA-in-C/blob/main/ListUsingArrays.c) - Demonstrates the Array Implementation of List ADT
 
-[`ListUsingPointers.c`](https://github.com/fromjyce/DSA-in-C/blob/main/ListUsingPointers.c) - Demonstrates the Pointer Based Implementaion of LIST ADT
+[`ListUsingPointers.c`](https://github.com/fromjyce/DSA-in-C/blob/main/ListUsingPointers.c) - Demonstrates the Pointer Based Implementation of LIST ADT
 
 [`PolyUsingSLL.c`](https://github.com/fromjyce/DSA-in-C/blob/main/PolyUsingSLL.c) - Demonstrates the Polynomial Equation using Singly Linked Lists
 
