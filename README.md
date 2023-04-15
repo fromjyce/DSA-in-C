@@ -11,6 +11,10 @@ This repository contains the C programs that I have submitted for assignments an
 [`StackUsingArrays.c`](https://github.com/fromjyce/DSA-in-C/blob/main/StackUsingArrays.c) - Demonstrates the Implementation of Stack using Arrays
 
 [`StackUsingSLL.c`](https://github.com/fromjyce/DSA-in-C/blob/main/StackUsingSLL.c) - Demonstrates the Implementation of Stack using Singly Linked Lists
+
+[`InfixToPostfix.c`](https://github.com/fromjyce/DSA-in-C/blob/main/InfixToPostfix.c) - Demonstrates the Conversion of an Infix Expression to a Postfix Expression
+
+[`EvaluatePostfix.c`](https://github.com/fromjyce/DSA-in-C/blob/main/EvaluatePostfix.c) - Demonstrates the Evaluation of a Postfix Expression
 ## Running the Programs
 To run the C programs, you need to have a C compiler installed on your system. The programs have been tested on the GNU GCC compiler on Linux
 
