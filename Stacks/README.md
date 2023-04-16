@@ -29,7 +29,7 @@ While writing an arithmetic expression using prefix notation, the operator is pl
 For example, `+AB;`,here, plus operator is placed before the two operands
 `A` and `B`.
 
-## Structure of the file
+## Structure of the File
 1. [`StackUsingSLL.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Stacks/StackUsingSLL.c) - Demonstrates the Implementation of the Stacks using Singly Linked Lists
 2. [`StackUsingArrays.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Stacks/StackUsingArrays.c) - Demonstrates the Implementation of the Stacks using Arrays
 3. [`InfixToPostfix.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Stacks/InfixToPostfix.c) - Demonstrates the Conversion of an Infix Notation into a Postfix Notation
