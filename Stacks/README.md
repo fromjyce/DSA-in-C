@@ -40,4 +40,4 @@ For example, `+AB;`,here, plus operator is placed before the two operands
 8. [`InfixPrefix.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Stacks/InfixPrefix.c) - Demonstrates the Conversion of an Infix expression to a Prefix expression and the Evaluation of the Prefix Expression
 9. [`PrefixPostfix.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Stacks/PrefixPostfix.c) - Demonstrates the Conversion of an Infix expression to both Postfix and Prefix expression
 10. [`EvaluatePrefixPostfix.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Stacks/EvaluatePrefixPostfix.c) - Demonstrates the Conversion of an Infix expression to both Postfix and Prefix expression and the Evaluation of the expression
-
+11. [`BalancingParantheses.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Stacks/BalancingParantheses.c) - Program to check nesting of parentheses using stack
