@@ -4,6 +4,8 @@ This repository contains the C programs that I have submitted for assignments an
 ## Structure of the Repository
 1. [`Linked Lists`](https://github.com/fromjyce/DSA-in-C/tree/main/Linked%20Lists) - Exercises on Linked Lists
 2. [`Stacks`](https://github.com/fromjyce/DSA-in-C/tree/main/Stacks) - Exercises on Stacks
+3. [`Queues`](https://github.com/fromjyce/DSA-in-C/tree/main/Queues) - Exercises on Queues
+4. [`Trees`](https://github.com/fromjyce/DSA-in-C/tree/main/Trees) - Exercises on Trees
 
 ## Running the Programs
 To run the C programs, you need to have a C compiler installed on your system. The programs have been tested on the GNU GCC compiler on Linux
