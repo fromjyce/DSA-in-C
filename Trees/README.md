@@ -8,13 +8,6 @@
 * A node is **external** if that node has no childrem. They are also known as **leaves**.
 * A node is **internal** if it has one or more children.
 
-## TRAVERSAL OF TREE
-A **traversal** of a tree is a systematic way of accessing, or "visiting", all the positions of that tree.
-### Several Traversal Schemes of Trees:
-1. **Pre Order Traversal** : In a Pre Order Traversal of a tree,  the root of that tree is visited first and then the subtrees rooted at its children are traversed recursively. If the tree is ordered, then the subtrees are traversed recursively.
-2. **In Order Traversal** : In a In Order Traversal of a tree, the tree can be informally viewed as visiting the nodes of that tree "from left to right".
-3. **Post Order Traversal** : This is the opposite of the Pre Order Traversal, because it recursively traverses the subtrees rooted at the children of the root first, and then visits the root.
-
 ## Structure of the File
 1. [`NonRecursiveInOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveInOrderTraversal.c) - Demonstrates the Non Recursive In Order Traversal in Tree.
 2. [`NonRecursivePostOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursivePostOrderTraversal.c) - Demonstrates the Non Recursive Post Order Traversal in Tree.
