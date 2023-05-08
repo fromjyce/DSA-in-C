@@ -19,3 +19,6 @@
 8. [`RecursivePostOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursivePostOrderTraversal.c) - Demonstrates the Recursive Post Order Traversal in Tree.
 9. [`RecursivePreOrderTraveral.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursivePreOrderTraveral.c) - Demonstrates the Recursive Pre Order Traversal in Tree.
 10. [`RecursiveTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursiveTraversal.c) - Demonstrates the Recursive Traversal of all three types (In, Post, Pre) in Tree.
+11. [`NonRecursiveInsertion.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveInsertion.c) - Demonstrates the Non - Recursive Insertion in Tree
+12. [`NonRecursiveMaximum.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveMaximum.c) - Demonstrates the Non - Recursive way of finding maximum key in a tree
+
