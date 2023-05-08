@@ -21,4 +21,13 @@
 10. [`RecursiveTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursiveTraversal.c) - Demonstrates the Recursive Traversal of all three types (In, Post, Pre) in Tree.
 11. [`NonRecursiveInsertion.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveInsertion.c) - Demonstrates the Non - Recursive Insertion in Tree
 12. [`NonRecursiveMaximum.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveMaximum.c) - Demonstrates the Non - Recursive way of finding maximum key in a tree
-
+13. [`NonRecursiveMinAndMax.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveMinAndMax.c) - Demonstrates the Non - Recursive way of finding both maximum and minimum key in a tree
+14. [`NonRecursiveMinimum.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveMinimum.c) - Demonstrates the Non - Recursive way of finding the minimum key in a tree
+15. [`NonRecursiveSearch.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveSearch.c) - Demonstrates the Non - Recursive way of searching a key in a tree.
+16. [`RecursiveBST.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursiveBST.c) - Demonstrates the Recursive Operations of Binary Search Tree
+17. [`RecursiveDeletion.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursiveDeletion.c) - Demonstrates the Recursive Deletion of a Key in a Tree
+18. [`RecursiveMaximum.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursiveMaximum.c) - Demonstrates the Recursive way of finding maximum key in a tree
+19. [`RecursiveMinAndMax.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursiveMinAndMax.c) - Demonstrates the Recursive way of finding both maximum and minimum key in a tree
+20. [`RecursiveMinimum.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursiveMinimum.c) - Demonstrates the Recursive way of finding minimum key of a tree
+21. [`RecursiveSearch.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursiveSearch.c) - Demonstrates the Recursive way of searching a key in a tree
+22. [`RecursvieInsertion.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursvieInsertion.c) - Demonstrates the Recursive way of inserting a key in a tree
