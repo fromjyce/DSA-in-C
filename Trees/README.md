@@ -9,11 +9,13 @@
 * A node is **internal** if it has one or more children.
 
 ## Structure of the File
-1. [`NonRecursiveInOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveInOrderTraversal.c) - Demonstrates the Non Recursive In Order Traversal in Tree.
-2. [`NonRecursivePostOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursivePostOrderTraversal.c) - Demonstrates the Non Recursive Post Order Traversal in Tree.
-3. [`NonRecursivePreOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursivePreOrderTraversal.c) - Demonstrates the Non Recursive Pre Order Traversal in Tree.
-4. [`NonRecursiveTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveTraversal.c) - Demonstrates the Non Recursive Traversal of all three types (In, Pre, Post) in Tree.
-5. [`RecursiveInOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursiveInOrderTraversal.c) - Demonstrates the Recursive In Order Traversal in Tree.
-6. [`RecursivePostOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursivePostOrderTraversal.c) - Demonstrates the Recursive Post Order Traversal in Tree.
-7. [`RecursivePreOrderTraveral.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursivePreOrderTraveral.c) - Demonstrates the Recursive Pre Order Traversal in Tree.
-8. [`RecursiveTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursiveTraversal.c) - Demonstrates the Recursive Traversal of all three types (In, Post, Pre) in Tree.
+1. [`NonRecursiveBST.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveBST.c) - Demonstrates the Non - Recursive Operations of a Binary Search Tree
+2. [`NonRecursiveDeletion.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveDeletion.c) - Demonstrates the Non - Recursive Deletion of a Key in Tree
+3. [`NonRecursiveInOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveInOrderTraversal.c) - Demonstrates the Non Recursive In Order Traversal in Tree.
+4. [`NonRecursivePostOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursivePostOrderTraversal.c) - Demonstrates the Non Recursive Post Order Traversal in Tree.
+5. [`NonRecursivePreOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursivePreOrderTraversal.c) - Demonstrates the Non Recursive Pre Order Traversal in Tree.
+6. [`NonRecursiveTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/NonRecursiveTraversal.c) - Demonstrates the Non Recursive Traversal of all three types (In, Pre, Post) in Tree.
+7. [`RecursiveInOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursiveInOrderTraversal.c) - Demonstrates the Recursive In Order Traversal in Tree.
+8. [`RecursivePostOrderTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursivePostOrderTraversal.c) - Demonstrates the Recursive Post Order Traversal in Tree.
+9. [`RecursivePreOrderTraveral.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursivePreOrderTraveral.c) - Demonstrates the Recursive Pre Order Traversal in Tree.
+10. [`RecursiveTraversal.c`](https://github.com/fromjyce/DSA-in-C/blob/main/Trees/RecursiveTraversal.c) - Demonstrates the Recursive Traversal of all three types (In, Post, Pre) in Tree.
