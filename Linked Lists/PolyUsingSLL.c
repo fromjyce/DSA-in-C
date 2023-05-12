@@ -1,6 +1,5 @@
 // Implementation of polynomial equation using singly linked list
 #include <stdio.h>
-#include <conio.h>
 #include <malloc.h>
 struct node
     {
